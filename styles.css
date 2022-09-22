@@ -1,0 +1,104 @@
+body{
+	background-color:#06283D;
+}
+h1{
+	color:#EEEEEE;
+	margin-left:50px;
+	-webkit-text-stroke:1px black;
+	font-family:Arial;
+	font-size: 70px;
+	margin-top:-30px;
+
+	
+
+}
+.tab1{
+	tab-size:2;
+
+}
+
+#right{
+	text-align:right;
+	padding:50px;
+}
+
+a{
+	text-decoration:none;
+	-webkit-text-stroke:1px black;
+	font-family:Arial;
+	color:black;
+
+}
+div.pit{
+	margin-left:50px;
+	font-size: 30px;
+	margin-top:-30px;
+
+}
+div.pot{
+	margin-left:50px;
+	font-size: 40px;
+}
+div.rawr{
+	margin-left:50px;
+	font-size:20px;
+}
+div.dami{
+	margin-top:-200
+	
+}
+div.foni{
+	margin-left:50px;
+	border:1px solid;
+	margin:30px;
+	
+	
+}
+
+div.all{
+	background-color:#DFF6FF;
+	border:1px solid;
+	margin-top:20px;
+	width:100%;
+	height:auto;
+
+
+
+}
+div.on{
+	font-family:Arial;
+	font-size: 25px;
+	margin-left:50px;
+	
+}
+div.ob{
+	margin-left:50px;
+	font-family:Arial;
+	font-size: 25px;
+}
+div.ab{
+	margin-left:50px;
+	font-family:Arial;
+	font-size: 25px;
+}
+pre{
+	font-size: 35px;
+}
+div.ski{
+	margin-left:50px;
+	font-family:Arial;
+	font-size: 25px;
+	
+}
+div.here{
+	margin-left:50px;
+	font-family:Arial;
+	font-size: 25px;
+	
+}
+
+
+
+
+
+
